@@ -15,6 +15,10 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-thebadge&logo=microsoft%20sql%20server&logoColor=white" />
+ <br>
+ <br>
+ Contatos
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" https://www.linkedin.com/in/edinaldo-louredo-marques-348420222/ />
 
    
    
