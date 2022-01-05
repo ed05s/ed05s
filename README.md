@@ -18,7 +18,9 @@
  <br>
  <br>
  Contatos
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <br>
+ <br>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> www.linkedin.com/in/edinaldo-louredo-marques-348420222
 
    
    
