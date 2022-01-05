@@ -7,19 +7,20 @@
  <br>
  <h3> CONHECIMENTOS<h3/>
  Linguagens :
-  <br>
-  <br>
+ <br>
+ <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   
  Database :
-  <br>
-  <br>
+ <br>
+ <br>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-thebadge&logo=microsoft%20sql%20server&logoColor=white" />
  <br>
  <br>
 <h3> CONTATOS <h3/>
  <br>
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <br>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
    
    
