@@ -1,4 +1,4 @@
-    Olá, meu nome é<h1>Edinaldo</h1>
+   Olá, meu nome é<h1>Edinaldo</h1>
     <br>
     Sou um estudante de programação iniciante buscando aprender e evoluir com as atuais e as futuras tecnologias.
     sou amante do conhecimento não apenas por tecnologia mas todo tipo de conhecimento que traz satisfação e realização pessoal.
@@ -17,7 +17,6 @@
    <h3 style="color: chartreuse;">CONTATOS</h3>
    
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   
   
  
 
