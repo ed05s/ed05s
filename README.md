@@ -12,7 +12,7 @@ Olá, me chamo <h1>Edinaldo Marques</h1>
        <a href="https://www.facebook.com/edinaldo.louredomarques" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
        <a href="https://www.instagram.com/edi_marks/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a></p>
        <br>
-            <h2>Educação</h2>
+            <h2>Educação 📚</h2>
         <a href="https://www.sololearn.com/profile/24377513"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt=""></a>
        <br>
            <h2>WorkSpace</h2>
