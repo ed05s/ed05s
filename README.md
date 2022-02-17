@@ -6,7 +6,7 @@
  <br>
  <br>
  <h2>CONHECIMENTOS</h2>
- h<3>Linguagens :</h3>
+ <3>Linguagens :</h3>
  <br>
  <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
