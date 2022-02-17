@@ -8,7 +8,9 @@ Olá, me chamo <h1>Edinaldo Marques</h1>
     <p> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt=""></p>
       <br>
        <h2>Redes sociais</h2>
-    <p>   <a href="https://www.linkedin.com/in/edinaldolouredomarques/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>  <a href="https://www.facebook.com/edinaldo.louredomarques" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>   <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a></P>
+   <p> <a href="https://www.linkedin.com/in/edinaldolouredomarques/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> 
+       <a href="https://www.facebook.com/edinaldo.louredomarques" target="_blank" rel="external"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=""></a>
+       <a href="https://www.instagram.com/edi_marks/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a></p>
        <br>
             <h2>Educação</h2>
         <a href="https://www.sololearn.com/profile/24377513"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt=""></a>
