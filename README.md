@@ -15,7 +15,7 @@ Olá, me chamo <h1>Edinaldo Marques</h1>
             <h2>Educação 📚</h2>
         <a href="https://www.sololearn.com/profile/24377513"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt=""></a>
        <br>
-           <h2>WorkSpace :laptop:</h2>
+           <h2>WorkSpace :computer:</h2>
         <img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white" alt="">
  
 
