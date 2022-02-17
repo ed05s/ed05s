@@ -5,13 +5,13 @@
  <br>
  <br>
  <br>
- <h3> CONHECIMENTOS<h3/>
- Linguagens :
+ <h2>CONHECIMENTOS</h2>
+ ,3>Linguagens :</h3>
  <br>
  <br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   
- Database :
+<h3>Database :</h3>
  <br>
  <br>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-thebadge&logo=microsoft%20sql%20server&logoColor=white" />
