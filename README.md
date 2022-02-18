@@ -1,6 +1,6 @@
 Olá, me chamo <h1>Edinaldo Marques	:nerd_face:</h1>
-<p> Atualmente estudo HTML e CSS, iniciei com java e porgramação orientada a objetos, porém, <br>
- achei melhor voltar e aprender o básico de desenvolvimento web, meu sonho é fazer q diferença no ramo da tecnologia no lugar que moro </p><br>
+<p> Atualmente estudo HTML e CSS, iniciei com java e porgramação orientada a objetos,<br> descobri o mundo do front recentemente e me encantei, espero desenvolver grandes projetos <br> e me tornar um dev profissional
+ , meu sonho é fazer q diferença no ramo da tecnologia no lugar que moro </p><br>
  <h2>Conhecimentos :brain: </h2>  
    <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt=""> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt=""> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""></p>
     <br>
